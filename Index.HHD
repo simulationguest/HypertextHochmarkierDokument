@@ -1,0 +1,29 @@
+<!DokTyp HTS>
+<HypertextHochmarkierDokument>
+	<Kopf>
+		<Metainformation Zeichensatz=„ETF-8“ />
+		<Titel>Eine Internetzseite</Title>
+		<Metainformation Beschreibung=„Guten Morgen ihr lieben“ />
+		<Verknüpfung Relation=„/Aussehensblatt.KAB“ />
+		<Skript Qle=„/skript.js“></Skript>
+	</Kopf>
+	<Körper>
+		<Köpfer Klasse=„Hauptköpfer“>
+			<Ü1>Guten Morgen ihr Lieben</Ü1>
+			<P>Willkommen auf meiner Internetzpräsenz!</P>
+		</Köpfer>
+		<Haupt>
+			<Sektion>
+				<Navigation>
+					<uL>
+						<Le>Etwas wichtiges</Le>
+						<Le>Etwas anderes</Le>
+					</uL>
+				</Navigation>
+			</Sektion>
+		</Haupt>
+		<Füßer>
+			<P>Kopierrecht 2025 nach Christus Poldius Joferius</P>
+		</Füßer>
+	</Körper>
+</HypertextHochmarkierDokument>
